@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:flutter_riverpod_todo_app/config/config.dart';
+import 'package:study_riverpod_hive_credit_card/config/theme/app_theme.dart';
+
 
 class FlutterRiverpodTodoApp extends ConsumerWidget {
   const FlutterRiverpodTodoApp({super.key});
